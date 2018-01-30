@@ -1,0 +1,20 @@
+{
+  "name": "collection-colleges",
+  "version": "1.0.0",
+  "description": "Collection Colleges ---- ####  使用 [`axios`](https://github.com/axios/axios) 与 [`cheerio`](https://github.com/cheeriojs/cheerio) 爬取全国高校信息到本地文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheerio",
+    "axios"
+  ],
+  "author": "bigpar@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "mongoose": "^5.0.2"
+  }
+}
