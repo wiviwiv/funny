@@ -1,0 +1,25 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/403.vue",
+  "fileName": "403.vue",
+  "namespace": "403",
+  "rows": {
+    "3": {
+      "key": "__3",
+      "value": "抱歉，您没有权限",
+      "template": [
+        "抱歉，您没有权限",
+        "{{ $t('403.__3') }}"
+      ],
+      "script": false
+    }
+  },
+  "key": {
+    "__3": "抱歉，您没有权限"
+  },
+  "zhCode": {
+    "__3": "抱歉，您没有权限"
+  },
+  "enCode": {
+    "__3": "抱歉，您没有权限"
+  }
+}

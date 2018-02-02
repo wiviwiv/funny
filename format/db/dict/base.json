@@ -1,0 +1,44 @@
+{
+  "$_/views/403.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/403.vue",
+  "$_/views/404.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/404.vue",
+  "$_/views/Dashboard.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Dashboard.vue",
+  "$_/views/Home.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Home.vue",
+  "$_/views/Login.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Login.vue",
+  "$_/views/Signup.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Signup.vue",
+  "email": {
+    "zh": "邮箱",
+    "en": "Email"
+  },
+  "username": {
+    "zh": "用户名",
+    "en": "Username"
+  },
+  "password": {
+    "zh": "密码",
+    "en": "Password"
+  },
+  "phonenumber": {
+    "zh": "电话",
+    "en": "Phonenumber"
+  },
+  "company": {
+    "zh": "公司名称",
+    "en": "Company"
+  },
+  "companySize": {
+    "zh": "公司规模",
+    "en": "Company Size"
+  },
+  "contactPerson": {
+    "zh": "联系人",
+    "en": "Contact Person"
+  },
+  "contactPhone": {
+    "zh": "联系电话",
+    "en": "Contact Phone"
+  },
+  "companyAddress": {
+    "zh": "公司地址",
+    "en": "Company Address"
+  }
+}

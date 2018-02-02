@@ -1,0 +1,114 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Groups.vue",
+  "fileName": "Groups.vue",
+  "namespace": "groups",
+  "rows": {
+    "13": {
+      "key": "groupName",
+      "value": "分组名称",
+      "template": [
+        "label=\"分组名称\"",
+        ":label=\"$t('groups.groupName')\""
+      ],
+      "script": false
+    },
+    "23": {
+      "key": "groupID",
+      "value": "分组标识",
+      "template": [
+        "label=\"分组标识\"",
+        ":label=\"$t('groups.groupID')\""
+      ],
+      "script": false
+    },
+    "27": {
+      "key": "deviceCount",
+      "value": "设备数量",
+      "template": [
+        "label=\"设备数量\"",
+        ":label=\"$t('groups.deviceCount')\""
+      ],
+      "script": false
+    },
+    "37": {
+      "key": "productID",
+      "value": "所属产品",
+      "template": [
+        "label=\"所属产品\"",
+        ":label=\"$t('groups.productID')\""
+      ],
+      "script": false
+    },
+    "65": {
+      "key": "__65",
+      "value": "新建分组",
+      "template": [
+        "'新建分组'",
+        "this.$t('groups.__65')",
+        "__65"
+      ],
+      "script": true
+    },
+    "66": {
+      "key": "__66",
+      "value": "您还没有任何分组",
+      "template": [
+        "'您还没有任何分组'",
+        "this.$t('groups.__66')",
+        "__66"
+      ],
+      "script": true
+    },
+    "67": {
+      "key": "__67",
+      "value": "创建设备前，请先创建产品",
+      "template": [
+        "'创建设备前，请先创建产品'",
+        "this.$t('groups.__67')",
+        "__67"
+      ],
+      "script": true
+    },
+    "74": {
+      "key": "groupName",
+      "value": "分组名称",
+      "template": [
+        "'分组名称'",
+        "this.$t('groups.groupName')"
+      ],
+      "script": true
+    },
+    "78": {
+      "key": "groupID",
+      "value": "分组标识",
+      "template": [
+        "'分组标识'",
+        "this.$t('groups.groupID')"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__65": "新建分组",
+    "__66": "您还没有任何分组",
+    "__67": "创建设备前，请先创建产品"
+  },
+  "zhCode": {
+    "groupName": "分组名称",
+    "groupID": "分组标识",
+    "deviceCount": "设备数量",
+    "productID": "所属产品",
+    "__65": "新建分组",
+    "__66": "您还没有任何分组",
+    "__67": "创建设备前，请先创建产品"
+  },
+  "enCode": {
+    "groupName": "Group Name",
+    "groupID": "GroupID",
+    "deviceCount": "Device Count",
+    "productID": "ProductID",
+    "__65": "新建分组",
+    "__66": "您还没有任何分组",
+    "__67": "创建设备前，请先创建产品"
+  }
+}

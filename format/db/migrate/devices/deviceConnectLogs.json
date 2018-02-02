@@ -1,0 +1,87 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceConnectLogs.vue",
+  "fileName": "DeviceConnectLogs.vue",
+  "namespace": "deviceConnectLogs",
+  "rows": {
+    "11": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "label=\"设备名称\"",
+        ":label=\"$t('deviceConnectLogs.deviceName')\""
+      ],
+      "script": false
+    },
+    "15": {
+      "key": "deviceID",
+      "value": "设备编号",
+      "template": [
+        "label=\"设备编号\"",
+        ":label=\"$t('deviceConnectLogs.deviceID')\""
+      ],
+      "script": false
+    },
+    "19": {
+      "key": "__19",
+      "value": "客户端",
+      "template": [
+        "客户端",
+        "{{ $t('deviceConnectLogs.__19') }}"
+      ],
+      "script": false
+    },
+    "23": {
+      "key": "deviceStatusLabel",
+      "value": "事件",
+      "template": [
+        "label=\"事件\"",
+        ":label=\"$t('deviceConnectLogs.deviceStatusLabel')\""
+      ],
+      "script": false
+    },
+    "27": {
+      "key": "loginTime",
+      "value": "发生时间",
+      "template": [
+        "label=\"发生时间\"",
+        ":label=\"$t('deviceConnectLogs.loginTime')\""
+      ],
+      "script": false
+    },
+    "55": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "'设备名称'",
+        "this.$t('deviceConnectLogs.deviceName')"
+      ],
+      "script": true
+    },
+    "59": {
+      "key": "deviceID",
+      "value": "设备编号",
+      "template": [
+        "'设备编号'",
+        "this.$t('deviceConnectLogs.deviceID')"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__19": "客户端"
+  },
+  "zhCode": {
+    "deviceName": "设备名称",
+    "deviceID": "设备编号",
+    "__19": "客户端",
+    "deviceStatusLabel": "事件",
+    "loginTime": "发生时间"
+  },
+  "enCode": {
+    "deviceName": "Device Name",
+    "deviceID": "DeviceID",
+    "__19": "客户端",
+    "deviceStatusLabel": "Device Status",
+    "loginTime": "Login Time"
+  }
+}

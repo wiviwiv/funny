@@ -1,0 +1,84 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsCode.vue",
+  "fileName": "DeviceDetailsCode.vue",
+  "namespace": "deviceDetailsCode",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "设备",
+      "template": [
+        "设备",
+        "{{ $t('deviceDetailsCode.__4') }}"
+      ],
+      "script": false
+    },
+    "5": {
+      "key": "__5",
+      "value": "编码信息",
+      "template": [
+        "编码信息",
+        "{{ $t('deviceDetailsCode.__5') }}"
+      ],
+      "script": false
+    },
+    "13": {
+      "key": "__13",
+      "value": "编码信息",
+      "template": [
+        "编码信息",
+        "{{ $t('deviceDetailsCode.__13') }}"
+      ],
+      "script": false
+    },
+    "25": {
+      "key": "__25",
+      "value": "设备编号：",
+      "template": [
+        "设备编号：",
+        "{{ $t('deviceDetailsCode.__25') }}"
+      ],
+      "script": false
+    },
+    "39": {
+      "key": "__39",
+      "value": "设备密钥：",
+      "template": [
+        "设备密钥：",
+        "{{ $t('deviceDetailsCode.__39') }}"
+      ],
+      "script": false
+    },
+    "76": {
+      "key": "topic",
+      "value": "主题",
+      "template": [
+        "label=\"主题\"",
+        ":label=\"$t('deviceDetailsCode.topic')\""
+      ],
+      "script": false
+    }
+  },
+  "key": {
+    "__4": "设备",
+    "__5": "编码信息",
+    "__13": "编码信息",
+    "__25": "设备编号：",
+    "__39": "设备密钥："
+  },
+  "zhCode": {
+    "__4": "设备",
+    "__5": "编码信息",
+    "__13": "编码信息",
+    "__25": "设备编号：",
+    "__39": "设备密钥：",
+    "topic": "主题"
+  },
+  "enCode": {
+    "__4": "设备",
+    "__5": "编码信息",
+    "__13": "编码信息",
+    "__25": "设备编号：",
+    "__39": "设备密钥：",
+    "topic": "Topic"
+  }
+}

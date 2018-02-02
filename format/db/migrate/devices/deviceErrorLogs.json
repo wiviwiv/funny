@@ -1,0 +1,74 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceErrorLogs.vue",
+  "fileName": "DeviceErrorLogs.vue",
+  "namespace": "deviceErrorLogs",
+  "rows": {
+    "11": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "label=\"设备名称\"",
+        ":label=\"$t('deviceErrorLogs.deviceName')\""
+      ],
+      "script": false
+    },
+    "15": {
+      "key": "deviceID",
+      "value": "设备编号",
+      "template": [
+        "label=\"设备编号\"",
+        ":label=\"$t('deviceErrorLogs.deviceID')\""
+      ],
+      "script": false
+    },
+    "19": {
+      "key": "message",
+      "value": "消息",
+      "template": [
+        "label=\"消息\"",
+        ":label=\"$t('deviceErrorLogs.message')\""
+      ],
+      "script": false
+    },
+    "23": {
+      "key": "loginTime",
+      "value": "发生时间",
+      "template": [
+        "label=\"发生时间\"",
+        ":label=\"$t('deviceErrorLogs.loginTime')\""
+      ],
+      "script": false
+    },
+    "51": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "'设备名称'",
+        "this.$t('deviceErrorLogs.deviceName')"
+      ],
+      "script": true
+    },
+    "55": {
+      "key": "deviceID",
+      "value": "设备编号",
+      "template": [
+        "'设备编号'",
+        "this.$t('deviceErrorLogs.deviceID')"
+      ],
+      "script": true
+    }
+  },
+  "key": {},
+  "zhCode": {
+    "deviceName": "设备名称",
+    "deviceID": "设备编号",
+    "message": "消息",
+    "loginTime": "发生时间"
+  },
+  "enCode": {
+    "deviceName": "Device Name",
+    "deviceID": "DeviceID",
+    "message": "Message",
+    "loginTime": "Login Time"
+  }
+}

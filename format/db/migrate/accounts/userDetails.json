@@ -1,0 +1,341 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/UserDetails.vue",
+  "fileName": "UserDetails.vue",
+  "namespace": "userDetails",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "用户",
+      "template": [
+        "用户",
+        "{{ $t('userDetails.__4') }}"
+      ],
+      "script": false
+    },
+    "18": {
+      "key": "__18",
+      "value": "用户名",
+      "template": [
+        "用户名",
+        "{{ $t('userDetails.__18') }}"
+      ],
+      "script": false
+    },
+    "21": {
+      "key": "__21",
+      "value": "请输入用户名",
+      "template": [
+        "请输入用户名",
+        "{{ $t('userDetails.__21') }}"
+      ],
+      "script": false
+    },
+    "27": {
+      "key": "email",
+      "value": "邮箱",
+      "template": [
+        "label=\"邮箱\"",
+        ":label=\"$t('userDetails.email')\""
+      ],
+      "script": false
+    },
+    "30": {
+      "key": "__30",
+      "value": "请输入邮箱",
+      "template": [
+        "请输入邮箱",
+        "{{ $t('userDetails.__30') }}"
+      ],
+      "script": false
+    },
+    "36": {
+      "key": "password",
+      "value": "密码",
+      "template": [
+        "label=\"密码\"",
+        ":label=\"$t('userDetails.password')\""
+      ],
+      "script": false
+    },
+    "40": {
+      "key": "__40",
+      "value": "请输入密码",
+      "template": [
+        "请输入密码",
+        "{{ $t('userDetails.__40') }}"
+      ],
+      "script": false
+    },
+    "46": {
+      "key": "roleID",
+      "value": "角色",
+      "template": [
+        "label=\"角色\"",
+        ":label=\"$t('userDetails.roleID')\""
+      ],
+      "script": false
+    },
+    "51": {
+      "key": "__51",
+      "value": "请选择",
+      "template": [
+        "请选择",
+        "{{ $t('userDetails.__51') }}"
+      ],
+      "script": false
+    },
+    "57": {
+      "key": "enable",
+      "value": "是否允许访问",
+      "template": [
+        "label=\"是否允许访问\"",
+        ":label=\"$t('userDetails.enable')\""
+      ],
+      "script": false
+    },
+    "62": {
+      "key": "__62",
+      "value": "请选择",
+      "template": [
+        "请选择",
+        "{{ $t('userDetails.__62') }}"
+      ],
+      "script": false
+    },
+    "68": {
+      "key": "phone",
+      "value": "电话号码",
+      "template": [
+        "label=\"电话号码\"",
+        ":label=\"$t('userDetails.phone')\""
+      ],
+      "script": false
+    },
+    "71": {
+      "key": "__71",
+      "value": "请输入电话号码",
+      "template": [
+        "请输入电话号码",
+        "{{ $t('userDetails.__71') }}"
+      ],
+      "script": false
+    },
+    "77": {
+      "key": "expiresAt",
+      "value": "到期时间",
+      "template": [
+        "label=\"到期时间\"",
+        ":label=\"$t('userDetails.expiresAt')\""
+      ],
+      "script": false
+    },
+    "81": {
+      "key": "__81",
+      "value": "永不过期",
+      "template": [
+        "永不过期",
+        "{{ $t('userDetails.__81') }}"
+      ],
+      "script": false
+    },
+    "89": {
+      "key": "__89",
+      "value": "加入时间",
+      "template": [
+        "加入时间",
+        "{{ $t('userDetails.__89') }}"
+      ],
+      "script": false
+    },
+    "101": {
+      "key": "__101",
+      "value": "完成",
+      "template": [
+        "完成",
+        "{{ $t('userDetails.__101') }}"
+      ],
+      "script": false
+    },
+    "142": {
+      "key": "__142",
+      "value": "请输入用户名",
+      "template": [
+        "'请输入用户名'",
+        "this.$t('userDetails.__142')",
+        "__142"
+      ],
+      "script": true
+    },
+    "145": {
+      "key": "__145",
+      "value": "请输入密码",
+      "template": [
+        "'请输入密码'",
+        "this.$t('userDetails.__145')",
+        "__145"
+      ],
+      "script": true
+    },
+    "149": {
+      "key": "__149",
+      "value": "请输入邮箱",
+      "template": [
+        "'请输入邮箱'",
+        "this.$t('userDetails.__149')",
+        "__149"
+      ],
+      "script": true
+    },
+    "150": {
+      "key": "__150",
+      "value": "请输入正确的邮箱地址",
+      "template": [
+        "'请输入正确的邮箱地址'",
+        "this.$t('userDetails.__150')",
+        "__150"
+      ],
+      "script": true
+    },
+    "153": {
+      "key": "__153",
+      "value": "请选择用户角色",
+      "template": [
+        "'请选择用户角色'",
+        "this.$t('userDetails.__153')",
+        "__153"
+      ],
+      "script": true
+    },
+    "156": {
+      "key": "__156",
+      "value": "请选择",
+      "template": [
+        "'请选择'",
+        "this.$t('userDetails.__156')",
+        "__156"
+      ],
+      "script": true
+    },
+    "177": {
+      "key": "__177",
+      "value": "新建成功",
+      "template": [
+        "'新建成功'",
+        "this.$t('userDetails.__177')",
+        "__177"
+      ],
+      "script": true
+    },
+    "180": {
+      "key": "__180",
+      "value": "创建失败",
+      "template": [
+        "'创建失败'",
+        "this.$t('userDetails.__180')",
+        "__180"
+      ],
+      "script": true
+    },
+    "184": {
+      "key": "__184",
+      "value": "编辑成功",
+      "template": [
+        "'编辑成功'",
+        "this.$t('userDetails.__184')",
+        "__184"
+      ],
+      "script": true
+    },
+    "187": {
+      "key": "__187",
+      "value": "编辑失败",
+      "template": [
+        "'编辑失败'",
+        "this.$t('userDetails.__187')",
+        "__187"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__4": "user",
+    "__18": "username",
+    "__21": "username",
+    "__30": "email",
+    "__40": "password",
+    "__51": "select",
+    "__62": "select",
+    "__71": "tel",
+    "__81": "neverExpire",
+    "__89": "createAt",
+    "__101": "done",
+    "__142": "usernameRequired",
+    "__145": "passwordRequired",
+    "__149": "emailRequired",
+    "__150": "emailIllegal",
+    "__153": "roleRequired",
+    "__156": "optionRequired",
+    "__177": "createSuccess",
+    "__180": "createFailure",
+    "__184": "editSuccess",
+    "__187": "editFailure"
+  },
+  "zhCode": {
+    "__4": "用户",
+    "__18": "用户名",
+    "__21": "请输入用户名",
+    "email": "邮箱",
+    "__30": "请输入邮箱",
+    "password": "密码",
+    "__40": "请输入密码",
+    "roleID": "角色",
+    "__51": "请选择",
+    "enable": "是否允许访问",
+    "__62": "请选择",
+    "phone": "电话号码",
+    "__71": "请输入电话号码",
+    "expiresAt": "到期时间",
+    "__81": "永不过期",
+    "__89": "加入时间",
+    "__101": "完成",
+    "__142": "请输入用户名",
+    "__145": "请输入密码",
+    "__149": "请输入邮箱",
+    "__150": "请输入正确的邮箱地址",
+    "__153": "请选择用户角色",
+    "__156": "请选择",
+    "__177": "新建成功",
+    "__180": "创建失败",
+    "__184": "编辑成功",
+    "__187": "编辑失败"
+  },
+  "enCode": {
+    "__4": "User",
+    "__18": "Username",
+    "__21": "Username",
+    "email": "Email",
+    "__30": "Email",
+    "password": "Password",
+    "__40": "Password",
+    "roleID": "Role",
+    "__51": "Select",
+    "enable": "Enable",
+    "__62": "Select",
+    "phone": "Tel",
+    "__71": "telRequired",
+    "expiresAt": "Expires At",
+    "__81": "Never Expires",
+    "__89": "Create At",
+    "__101": "Save",
+    "__142": "Username Required",
+    "__145": "Password Required",
+    "__149": "Email Required",
+    "__150": "Email Illegal",
+    "__153": "Option Required",
+    "__156": "Option Required",
+    "__177": "Create Success",
+    "__180": "Create Failure",
+    "__184": "Edit Success",
+    "__187": "Edit Failure"
+  }
+}

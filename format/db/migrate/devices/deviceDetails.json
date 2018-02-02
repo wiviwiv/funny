@@ -1,0 +1,403 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetails.vue",
+  "fileName": "DeviceDetails.vue",
+  "namespace": "deviceDetails",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "设备",
+      "template": [
+        "设备",
+        "{{ $t('deviceDetails.__4') }}"
+      ],
+      "script": false
+    },
+    "5": {
+      "key": "__5",
+      "value": "设备信息",
+      "template": [
+        "设备信息",
+        "{{ $t('deviceDetails.__5') }}"
+      ],
+      "script": false
+    },
+    "11": {
+      "key": "__11",
+      "value": "运行信息",
+      "template": [
+        "运行信息",
+        "{{ $t('deviceDetails.__11') }}"
+      ],
+      "script": false
+    },
+    "14": {
+      "key": "__14",
+      "value": "运行信息",
+      "template": [
+        "运行信息",
+        "{{ $t('deviceDetails.__14') }}"
+      ],
+      "script": false
+    },
+    "24": {
+      "key": "__24",
+      "value": "运行状态",
+      "template": [
+        "运行状态",
+        "{{ $t('deviceDetails.__24') }}"
+      ],
+      "script": false
+    },
+    "33": {
+      "key": "__33",
+      "value": "连接时间",
+      "template": [
+        "连接时间",
+        "{{ $t('deviceDetails.__33') }}"
+      ],
+      "script": false
+    },
+    "40": {
+      "key": "__40",
+      "value": "客户端",
+      "template": [
+        "客户端",
+        "{{ $t('deviceDetails.__40') }}"
+      ],
+      "script": false
+    },
+    "49": {
+      "key": "__49",
+      "value": "基本信息",
+      "template": [
+        "基本信息",
+        "{{ $t('deviceDetails.__49') }}"
+      ],
+      "script": false
+    },
+    "52": {
+      "key": "__52",
+      "value": "基本信息",
+      "template": [
+        "基本信息",
+        "{{ $t('deviceDetails.__52') }}"
+      ],
+      "script": false
+    },
+    "65": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "label=\"设备名称\"",
+        ":label=\"$t('deviceDetails.deviceName')\""
+      ],
+      "script": false
+    },
+    "74": {
+      "key": "productID",
+      "value": "所属产品",
+      "template": [
+        "label=\"所属产品\"",
+        ":label=\"$t('deviceDetails.productID')\""
+      ],
+      "script": false
+    },
+    "84": {
+      "key": "deviceType",
+      "value": "设备类型",
+      "template": [
+        "label=\"设备类型\"",
+        ":label=\"$t('deviceDetails.deviceType')\""
+      ],
+      "script": false
+    },
+    "94": {
+      "key": "__94",
+      "value": "描述",
+      "template": [
+        "描述",
+        "{{ $t('deviceDetails.__94') }}"
+      ],
+      "script": false
+    },
+    "103": {
+      "key": "serialNumber",
+      "value": "序列号",
+      "template": [
+        "label=\"序列号\"",
+        ":label=\"$t('deviceDetails.serialNumber')\""
+      ],
+      "script": false
+    },
+    "112": {
+      "key": "softVersion",
+      "value": "软件版本",
+      "template": [
+        "label=\"软件版本\"",
+        ":label=\"$t('deviceDetails.softVersion')\""
+      ],
+      "script": false
+    },
+    "121": {
+      "key": "hardwareVersion",
+      "value": "硬件版本",
+      "template": [
+        "label=\"硬件版本\"",
+        ":label=\"$t('deviceDetails.hardwareVersion')\""
+      ],
+      "script": false
+    },
+    "130": {
+      "key": "manufacturer",
+      "value": "制造商",
+      "template": [
+        "label=\"制造商\"",
+        ":label=\"$t('deviceDetails.manufacturer')\""
+      ],
+      "script": false
+    },
+    "139": {
+      "key": "location",
+      "value": "安装位置",
+      "template": [
+        "label=\"安装位置\"",
+        ":label=\"$t('deviceDetails.location')\""
+      ],
+      "script": false
+    },
+    "148": {
+      "key": "__148",
+      "value": "创建时间",
+      "template": [
+        "创建时间",
+        "{{ $t('deviceDetails.__148') }}"
+      ],
+      "script": false
+    },
+    "157": {
+      "key": "createUser",
+      "value": "创建人",
+      "template": [
+        "label=\"创建人\"",
+        ":label=\"$t('deviceDetails.createUser')\""
+      ],
+      "script": false
+    },
+    "171": {
+      "key": "__171",
+      "value": "保存",
+      "template": [
+        "保存",
+        "{{ $t('deviceDetails.__171') }}"
+      ],
+      "script": false
+    },
+    "177": {
+      "key": "__177",
+      "value": "取消",
+      "template": [
+        "取消",
+        "{{ $t('deviceDetails.__177') }}"
+      ],
+      "script": false
+    },
+    "182": {
+      "key": "__182",
+      "value": "运行日志",
+      "template": [
+        "运行日志",
+        "{{ $t('deviceDetails.__182') }}"
+      ],
+      "script": false
+    },
+    "185": {
+      "key": "__185",
+      "value": "运行日志",
+      "template": [
+        "运行日志",
+        "{{ $t('deviceDetails.__185') }}"
+      ],
+      "script": false
+    },
+    "192": {
+      "key": "deviceStatusLabel",
+      "value": "事件",
+      "template": [
+        "label=\"事件\"",
+        ":label=\"$t('deviceDetails.deviceStatusLabel')\""
+      ],
+      "script": false
+    },
+    "193": {
+      "key": "__193",
+      "value": "客户端",
+      "template": [
+        "客户端",
+        "{{ $t('deviceDetails.__193') }}"
+      ],
+      "script": false
+    },
+    "194": {
+      "key": "loginTime",
+      "value": "发生时间",
+      "template": [
+        "label=\"发生时间\"",
+        ":label=\"$t('deviceDetails.loginTime')\""
+      ],
+      "script": false
+    },
+    "196": {
+      "key": "__196",
+      "value": "运行日志分页",
+      "template": [
+        "运行日志分页",
+        "{{ $t('deviceDetails.__196') }}"
+      ],
+      "script": false
+    },
+    "254": {
+      "key": "__254",
+      "value": "请输入设备名称",
+      "template": [
+        "'请输入设备名称'",
+        "this.$t('deviceDetails.__254')",
+        "__254"
+      ],
+      "script": true
+    },
+    "257": {
+      "key": "__257",
+      "value": "请选择所属产品",
+      "template": [
+        "'请选择所属产品'",
+        "this.$t('deviceDetails.__257')",
+        "__257"
+      ],
+      "script": true
+    },
+    "260": {
+      "key": "__260",
+      "value": "请选择设备类型",
+      "template": [
+        "'请选择设备类型'",
+        "this.$t('deviceDetails.__260')",
+        "__260"
+      ],
+      "script": true
+    },
+    "311": {
+      "key": "__311",
+      "value": "编辑成功",
+      "template": [
+        "'编辑成功'",
+        "this.$t('deviceDetails.__311')",
+        "__311"
+      ],
+      "script": true
+    },
+    "369": {
+      "key": "__369",
+      "value": "查看状态下的",
+      "template": [
+        "'查看状态下的'",
+        "this.$t('deviceDetails.__369')",
+        "__369"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__4": "设备",
+    "__5": "设备信息",
+    "__11": "运行信息",
+    "__14": "运行信息",
+    "__24": "运行状态",
+    "__33": "连接时间",
+    "__40": "客户端",
+    "__49": "基本信息",
+    "__52": "基本信息",
+    "__94": "描述",
+    "__148": "创建时间",
+    "__171": "保存",
+    "__177": "取消",
+    "__182": "运行日志",
+    "__185": "运行日志",
+    "__193": "客户端",
+    "__196": "运行日志分页",
+    "__254": "请输入设备名称",
+    "__257": "请选择所属产品",
+    "__260": "请选择设备类型",
+    "__311": "编辑成功",
+    "__369": "查看状态下的"
+  },
+  "zhCode": {
+    "__4": "设备",
+    "__5": "设备信息",
+    "__11": "运行信息",
+    "__14": "运行信息",
+    "__24": "运行状态",
+    "__33": "连接时间",
+    "__40": "客户端",
+    "__49": "基本信息",
+    "__52": "基本信息",
+    "deviceName": "设备名称",
+    "productID": "所属产品",
+    "deviceType": "设备类型",
+    "__94": "描述",
+    "serialNumber": "序列号",
+    "softVersion": "软件版本",
+    "hardwareVersion": "硬件版本",
+    "manufacturer": "制造商",
+    "location": "安装位置",
+    "__148": "创建时间",
+    "createUser": "创建人",
+    "__171": "保存",
+    "__177": "取消",
+    "__182": "运行日志",
+    "__185": "运行日志",
+    "deviceStatusLabel": "事件",
+    "__193": "客户端",
+    "loginTime": "发生时间",
+    "__196": "运行日志分页",
+    "__254": "请输入设备名称",
+    "__257": "请选择所属产品",
+    "__260": "请选择设备类型",
+    "__311": "编辑成功",
+    "__369": "查看状态下的"
+  },
+  "enCode": {
+    "__4": "设备",
+    "__5": "设备信息",
+    "__11": "运行信息",
+    "__14": "运行信息",
+    "__24": "运行状态",
+    "__33": "连接时间",
+    "__40": "客户端",
+    "__49": "基本信息",
+    "__52": "基本信息",
+    "deviceName": "Device Name",
+    "productID": "ProductID",
+    "deviceType": "Device Type",
+    "__94": "描述",
+    "serialNumber": "Serial Number",
+    "softVersion": "Soft Version",
+    "hardwareVersion": "Hardware Version",
+    "manufacturer": "Manufacturer",
+    "location": "Location",
+    "__148": "创建时间",
+    "createUser": "Create User",
+    "__171": "保存",
+    "__177": "取消",
+    "__182": "运行日志",
+    "__185": "运行日志",
+    "deviceStatusLabel": "Device Status",
+    "__193": "客户端",
+    "loginTime": "Login Time",
+    "__196": "运行日志分页",
+    "__254": "请输入设备名称",
+    "__257": "请选择所属产品",
+    "__260": "请选择设备类型",
+    "__311": "编辑成功",
+    "__369": "查看状态下的"
+  }
+}

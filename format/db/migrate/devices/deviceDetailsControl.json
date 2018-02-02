@@ -1,0 +1,49 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsControl.vue",
+  "fileName": "DeviceDetailsControl.vue",
+  "namespace": "deviceDetailsControl",
+  "rows": {
+    "5": {
+      "key": "__5",
+      "value": "设备",
+      "template": [
+        "设备",
+        "{{ $t('deviceDetailsControl.__5') }}"
+      ],
+      "script": false
+    },
+    "6": {
+      "key": "__6",
+      "value": "设备控制",
+      "template": [
+        "设备控制",
+        "{{ $t('deviceDetailsControl.__6') }}"
+      ],
+      "script": false
+    },
+    "16": {
+      "key": "__16",
+      "value": "添加指令",
+      "template": [
+        "添加指令",
+        "{{ $t('deviceDetailsControl.__16') }}"
+      ],
+      "script": false
+    }
+  },
+  "key": {
+    "__5": "设备",
+    "__6": "设备控制",
+    "__16": "添加指令"
+  },
+  "zhCode": {
+    "__5": "设备",
+    "__6": "设备控制",
+    "__16": "添加指令"
+  },
+  "enCode": {
+    "__5": "设备",
+    "__6": "设备控制",
+    "__16": "添加指令"
+  }
+}

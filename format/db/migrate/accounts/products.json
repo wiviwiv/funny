@@ -1,0 +1,95 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Products.vue",
+  "fileName": "Products.vue",
+  "namespace": "products",
+  "rows": {
+    "13": {
+      "key": "productName",
+      "value": "产品名称",
+      "template": [
+        "label=\"产品名称\"",
+        ":label=\"$t('products.productName')\""
+      ],
+      "script": false
+    },
+    "23": {
+      "key": "deviceCount",
+      "value": "设备数量",
+      "template": [
+        "label=\"设备数量\"",
+        ":label=\"$t('products.deviceCount')\""
+      ],
+      "script": false
+    },
+    "33": {
+      "key": "__33",
+      "value": "描述",
+      "template": [
+        "描述",
+        "{{ $t('products.__33') }}"
+      ],
+      "script": false
+    },
+    "61": {
+      "key": "__61",
+      "value": "新建产品",
+      "template": [
+        "'新建产品'",
+        "this.$t('products.__61')",
+        "__61"
+      ],
+      "script": true
+    },
+    "62": {
+      "key": "__62",
+      "value": "您还没有任何产品",
+      "template": [
+        "'您还没有任何产品'",
+        "this.$t('products.__62')",
+        "__62"
+      ],
+      "script": true
+    },
+    "63": {
+      "key": "__63",
+      "value": "创建设备前，请先创建产品",
+      "template": [
+        "'创建设备前，请先创建产品'",
+        "this.$t('products.__63')",
+        "__63"
+      ],
+      "script": true
+    },
+    "70": {
+      "key": "productName",
+      "value": "产品名称",
+      "template": [
+        "'产品名称'",
+        "this.$t('products.productName')"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__33": "描述",
+    "__61": "新建产品",
+    "__62": "您还没有任何产品",
+    "__63": "创建设备前，请先创建产品"
+  },
+  "zhCode": {
+    "productName": "产品名称",
+    "deviceCount": "设备数量",
+    "__33": "描述",
+    "__61": "新建产品",
+    "__62": "您还没有任何产品",
+    "__63": "创建设备前，请先创建产品"
+  },
+  "enCode": {
+    "productName": "Product Name",
+    "deviceCount": "Device Count",
+    "__33": "描述",
+    "__61": "新建产品",
+    "__62": "您还没有任何产品",
+    "__63": "创建设备前，请先创建产品"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/ProductDetails.vue",
+  "fileName": "ProductDetails.vue",
+  "namespace": "productDetails",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "产品",
+      "template": [
+        "产品",
+        "{{ $t('productDetails.__4') }}"
+      ],
+      "script": false
+    },
+    "18": {
+      "key": "__18",
+      "value": "产品标识",
+      "template": [
+        "产品标识",
+        "{{ $t('productDetails.__18') }}"
+      ],
+      "script": false
+    },
+    "27": {
+      "key": "productName",
+      "value": "产品名称",
+      "template": [
+        "label=\"产品名称\"",
+        ":label=\"$t('productDetails.productName')\""
+      ],
+      "script": false
+    },
+    "30": {
+      "key": "__30",
+      "value": "请输入产品名称",
+      "template": [
+        "请输入产品名称",
+        "{{ $t('productDetails.__30') }}"
+      ],
+      "script": false
+    },
+    "37": {
+      "key": "deviceCount",
+      "value": "设备数量",
+      "template": [
+        "label=\"设备数量\"",
+        ":label=\"$t('productDetails.deviceCount')\""
+      ],
+      "script": false
+    },
+    "45": {
+      "key": "__45",
+      "value": "产品描述",
+      "template": [
+        "产品描述",
+        "{{ $t('productDetails.__45') }}"
+      ],
+      "script": false
+    },
+    "48": {
+      "key": "__48",
+      "value": "请输入产品描述",
+      "template": [
+        "请输入产品描述",
+        "{{ $t('productDetails.__48') }}"
+      ],
+      "script": false
+    },
+    "55": {
+      "key": "createUser",
+      "value": "创建人",
+      "template": [
+        "label=\"创建人\"",
+        ":label=\"$t('productDetails.createUser')\""
+      ],
+      "script": false
+    },
+    "63": {
+      "key": "__63",
+      "value": "创建时间",
+      "template": [
+        "创建时间",
+        "{{ $t('productDetails.__63') }}"
+      ],
+      "script": false
+    },
+    "75": {
+      "key": "__75",
+      "value": "完成",
+      "template": [
+        "完成",
+        "{{ $t('productDetails.__75') }}"
+      ],
+      "script": false
+    },
+    "109": {
+      "key": "__109",
+      "value": "请输入产品名称",
+      "template": [
+        "'请输入产品名称'",
+        "this.$t('productDetails.__109')",
+        "__109"
+      ],
+      "script": true
+    },
+    "112": {
+      "key": "__112",
+      "value": "请输入产品描述",
+      "template": [
+        "'请输入产品描述'",
+        "this.$t('productDetails.__112')",
+        "__112"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__4": "产品",
+    "__18": "产品标识",
+    "__30": "请输入产品名称",
+    "__45": "产品描述",
+    "__48": "请输入产品描述",
+    "__63": "创建时间",
+    "__75": "完成",
+    "__109": "请输入产品名称",
+    "__112": "请输入产品描述"
+  },
+  "zhCode": {
+    "__4": "产品",
+    "__18": "产品标识",
+    "productName": "产品名称",
+    "__30": "请输入产品名称",
+    "deviceCount": "设备数量",
+    "__45": "产品描述",
+    "__48": "请输入产品描述",
+    "createUser": "创建人",
+    "__63": "创建时间",
+    "__75": "完成",
+    "__109": "请输入产品名称",
+    "__112": "请输入产品描述"
+  },
+  "enCode": {
+    "__4": "产品",
+    "__18": "产品标识",
+    "productName": "Product Name",
+    "__30": "请输入产品名称",
+    "deviceCount": "Device Count",
+    "__45": "产品描述",
+    "__48": "请输入产品描述",
+    "createUser": "Create User",
+    "__63": "创建时间",
+    "__75": "完成",
+    "__109": "请输入产品名称",
+    "__112": "请输入产品描述"
+  }
+}

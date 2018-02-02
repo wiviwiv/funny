@@ -1,0 +1,98 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceEvents.vue",
+  "fileName": "DeviceEvents.vue",
+  "namespace": "deviceEvents",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "设备事件",
+      "template": [
+        "设备事件",
+        "{{ $t('deviceEvents.__4') }}"
+      ],
+      "script": false
+    },
+    "9": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "label=\"设备名称\"",
+        ":label=\"$t('deviceEvents.deviceName')\""
+      ],
+      "script": false
+    },
+    "13": {
+      "key": "topic",
+      "value": "主题",
+      "template": [
+        "label=\"主题\"",
+        ":label=\"$t('deviceEvents.topic')\""
+      ],
+      "script": false
+    },
+    "17": {
+      "key": "payload",
+      "value": "载荷",
+      "template": [
+        "label=\"载荷\"",
+        ":label=\"$t('deviceEvents.payload')\""
+      ],
+      "script": false
+    },
+    "25": {
+      "key": "loginTime",
+      "value": "发生时间",
+      "template": [
+        "label=\"发生时间\"",
+        ":label=\"$t('deviceEvents.loginTime')\""
+      ],
+      "script": false
+    },
+    "51": {
+      "key": "deviceName",
+      "value": "设备名称",
+      "template": [
+        "'设备名称'",
+        "this.$t('deviceEvents.deviceName')"
+      ],
+      "script": true
+    },
+    "55": {
+      "key": "deviceID",
+      "value": "设备编号",
+      "template": [
+        "'设备编号'",
+        "this.$t('deviceEvents.deviceID')"
+      ],
+      "script": true
+    },
+    "59": {
+      "key": "topic",
+      "value": "主题",
+      "template": [
+        "'主题'",
+        "this.$t('deviceEvents.topic')"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__4": "设备事件"
+  },
+  "zhCode": {
+    "__4": "设备事件",
+    "deviceName": "设备名称",
+    "topic": "主题",
+    "payload": "载荷",
+    "loginTime": "发生时间",
+    "deviceID": "设备编号"
+  },
+  "enCode": {
+    "__4": "设备事件",
+    "deviceName": "Device Name",
+    "topic": "Topic",
+    "payload": "Payload",
+    "loginTime": "Login Time",
+    "deviceID": "DeviceID"
+  }
+}

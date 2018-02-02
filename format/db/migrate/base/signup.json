@@ -1,0 +1,368 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Signup.vue",
+  "fileName": "Signup.vue",
+  "namespace": "signup",
+  "rows": {
+    "8": {
+      "key": "__8",
+      "value": "设备管理平台",
+      "template": [
+        "设备管理平台",
+        "{{ $t('signup.__8') }}"
+      ],
+      "script": false
+    },
+    "19": {
+      "key": "__19",
+      "value": "个人用户",
+      "template": [
+        "个人用户",
+        "{{ $t('signup.__19') }}"
+      ],
+      "script": false
+    },
+    "29": {
+      "key": "email",
+      "value": "邮箱",
+      "template": [
+        "label=\"邮箱\"",
+        ":label=\"$t('signup.email')\""
+      ],
+      "script": false
+    },
+    "32": {
+      "key": "__32",
+      "value": "用户名",
+      "template": [
+        "用户名",
+        "{{ $t('signup.__32') }}"
+      ],
+      "script": false
+    },
+    "35": {
+      "key": "password",
+      "value": "密码",
+      "template": [
+        "label=\"密码\"",
+        ":label=\"$t('signup.password')\""
+      ],
+      "script": false
+    },
+    "38": {
+      "key": "phonenumber",
+      "value": "电话",
+      "template": [
+        "label=\"电话\"",
+        ":label=\"$t('signup.phonenumber')\""
+      ],
+      "script": false
+    },
+    "43": {
+      "key": "__43",
+      "value": "立即注册",
+      "template": [
+        "立即注册",
+        "{{ $t('signup.__43') }}"
+      ],
+      "script": false
+    },
+    "47": {
+      "key": "__47",
+      "value": "已有帐号，请",
+      "template": [
+        "已有帐号，请",
+        "{{ $t('signup.__47') }}"
+      ],
+      "script": false
+    },
+    "48": {
+      "key": "__48",
+      "value": "登录",
+      "template": [
+        "登录",
+        "{{ $t('signup.__48') }}"
+      ],
+      "script": false
+    },
+    "59": {
+      "key": "__59",
+      "value": "企业用户",
+      "template": [
+        "企业用户",
+        "{{ $t('signup.__59') }}"
+      ],
+      "script": false
+    },
+    "70": {
+      "key": "email",
+      "value": "邮箱",
+      "template": [
+        "label=\"邮箱\"",
+        ":label=\"$t('signup.email')\""
+      ],
+      "script": false
+    },
+    "73": {
+      "key": "__73",
+      "value": "用户名",
+      "template": [
+        "用户名",
+        "{{ $t('signup.__73') }}"
+      ],
+      "script": false
+    },
+    "76": {
+      "key": "password",
+      "value": "密码",
+      "template": [
+        "label=\"密码\"",
+        ":label=\"$t('signup.password')\""
+      ],
+      "script": false
+    },
+    "80": {
+      "key": "__80",
+      "value": "下一步",
+      "template": [
+        "下一步",
+        "{{ $t('signup.__80') }}"
+      ],
+      "script": false
+    },
+    "87": {
+      "key": "company",
+      "value": "公司名称",
+      "template": [
+        "label=\"公司名称\"",
+        ":label=\"$t('signup.company')\""
+      ],
+      "script": false
+    },
+    "90": {
+      "key": "companySize",
+      "value": "公司规模",
+      "template": [
+        "label=\"公司规模\"",
+        ":label=\"$t('signup.companySize')\""
+      ],
+      "script": false
+    },
+    "93": {
+      "key": "contactPerson",
+      "value": "联系人",
+      "template": [
+        "label=\"联系人\"",
+        ":label=\"$t('signup.contactPerson')\""
+      ],
+      "script": false
+    },
+    "96": {
+      "key": "contactPhone",
+      "value": "联系电话",
+      "template": [
+        "label=\"联系电话\"",
+        ":label=\"$t('signup.contactPhone')\""
+      ],
+      "script": false
+    },
+    "99": {
+      "key": "companyAddress",
+      "value": "公司地址",
+      "template": [
+        "label=\"公司地址\"",
+        ":label=\"$t('signup.companyAddress')\""
+      ],
+      "script": false
+    },
+    "103": {
+      "key": "__103",
+      "value": "立即注册",
+      "template": [
+        "立即注册",
+        "{{ $t('signup.__103') }}"
+      ],
+      "script": false
+    },
+    "106": {
+      "key": "__106",
+      "value": "返回上一步",
+      "template": [
+        "返回上一步",
+        "{{ $t('signup.__106') }}"
+      ],
+      "script": false
+    },
+    "160": {
+      "key": "__160",
+      "value": "请输入邮箱地址",
+      "template": [
+        "'请输入邮箱地址'",
+        "this.$t('signup.__160')",
+        "__160"
+      ],
+      "script": true
+    },
+    "161": {
+      "key": "__161",
+      "value": "请输入正确的邮箱地址",
+      "template": [
+        "'请输入正确的邮箱地址'",
+        "this.$t('signup.__161')",
+        "__161"
+      ],
+      "script": true
+    },
+    "164": {
+      "key": "__164",
+      "value": "请输入用户名",
+      "template": [
+        "'请输入用户名'",
+        "this.$t('signup.__164')",
+        "__164"
+      ],
+      "script": true
+    },
+    "167": {
+      "key": "__167",
+      "value": "请输入密码",
+      "template": [
+        "'请输入密码'",
+        "this.$t('signup.__167')",
+        "__167"
+      ],
+      "script": true
+    },
+    "171": {
+      "key": "__171",
+      "value": "请输入公司名称",
+      "template": [
+        "'请输入公司名称'",
+        "this.$t('signup.__171')",
+        "__171"
+      ],
+      "script": true
+    },
+    "174": {
+      "key": "__174",
+      "value": "请输入公司规模",
+      "template": [
+        "'请输入公司规模'",
+        "this.$t('signup.__174')",
+        "__174"
+      ],
+      "script": true
+    },
+    "177": {
+      "key": "__177",
+      "value": "请输入正确的邮箱地址",
+      "template": [
+        "'请输入正确的邮箱地址'",
+        "this.$t('signup.__177')",
+        "__177"
+      ],
+      "script": true
+    },
+    "225": {
+      "key": "__225",
+      "value": "恭喜您，注册成功！正在前往登录页面",
+      "template": [
+        "'恭喜您，注册成功！正在前往登录页面'",
+        "this.$t('signup.__225')",
+        "__225"
+      ],
+      "script": true
+    },
+    "235": {
+      "key": "__235",
+      "value": "抱歉，服务器错误，此次注册失败！",
+      "template": [
+        "'抱歉，服务器错误，此次注册失败！'",
+        "this.$t('signup.__235')",
+        "__235"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__8": "设备管理平台",
+    "__19": "个人用户",
+    "__32": "用户名",
+    "__43": "立即注册",
+    "__47": "已有帐号，请",
+    "__48": "登录",
+    "__59": "企业用户",
+    "__73": "用户名",
+    "__80": "下一步",
+    "__103": "立即注册",
+    "__106": "返回上一步",
+    "__160": "请输入邮箱地址",
+    "__161": "请输入正确的邮箱地址",
+    "__164": "请输入用户名",
+    "__167": "请输入密码",
+    "__171": "请输入公司名称",
+    "__174": "请输入公司规模",
+    "__177": "请输入正确的邮箱地址",
+    "__225": "恭喜您，注册成功！正在前往登录页面",
+    "__235": "抱歉，服务器错误，此次注册失败！"
+  },
+  "zhCode": {
+    "__8": "设备管理平台",
+    "__19": "个人用户",
+    "email": "邮箱",
+    "__32": "用户名",
+    "password": "密码",
+    "phonenumber": "电话",
+    "__43": "立即注册",
+    "__47": "已有帐号，请",
+    "__48": "登录",
+    "__59": "企业用户",
+    "__73": "用户名",
+    "__80": "下一步",
+    "company": "公司名称",
+    "companySize": "公司规模",
+    "contactPerson": "联系人",
+    "contactPhone": "联系电话",
+    "companyAddress": "公司地址",
+    "__103": "立即注册",
+    "__106": "返回上一步",
+    "__160": "请输入邮箱地址",
+    "__161": "请输入正确的邮箱地址",
+    "__164": "请输入用户名",
+    "__167": "请输入密码",
+    "__171": "请输入公司名称",
+    "__174": "请输入公司规模",
+    "__177": "请输入正确的邮箱地址",
+    "__225": "恭喜您，注册成功！正在前往登录页面",
+    "__235": "抱歉，服务器错误，此次注册失败！"
+  },
+  "enCode": {
+    "__8": "设备管理平台",
+    "__19": "个人用户",
+    "email": "Email",
+    "__32": "用户名",
+    "password": "Password",
+    "phonenumber": "Phonenumber",
+    "__43": "立即注册",
+    "__47": "已有帐号，请",
+    "__48": "登录",
+    "__59": "企业用户",
+    "__73": "用户名",
+    "__80": "下一步",
+    "company": "Company",
+    "companySize": "Company Size",
+    "contactPerson": "Contact Person",
+    "contactPhone": "Contact Phone",
+    "companyAddress": "Company Address",
+    "__103": "立即注册",
+    "__106": "返回上一步",
+    "__160": "请输入邮箱地址",
+    "__161": "请输入正确的邮箱地址",
+    "__164": "请输入用户名",
+    "__167": "请输入密码",
+    "__171": "请输入公司名称",
+    "__174": "请输入公司规模",
+    "__177": "请输入正确的邮箱地址",
+    "__225": "恭喜您，注册成功！正在前往登录页面",
+    "__235": "抱歉，服务器错误，此次注册失败！"
+  }
+}

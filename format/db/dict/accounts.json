@@ -1,0 +1,62 @@
+{
+  "$_/components/AccountTabsHead.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/components/AccountTabsHead.vue",
+  "$_/views/Invitations.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Invitations.vue",
+  "inviteEmail": {
+    "zh": "邮箱",
+    "en": "Invite Email"
+  },
+  "username": {
+    "zh": "用户名",
+    "en": "Username"
+  },
+  "roleID": {
+    "zh": "角色",
+    "en": "Role"
+  },
+  "$_/views/LoginLogs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/LoginLogs.vue",
+  "loginTime": {
+    "zh": null,
+    "en": "Login Time"
+  },
+  "IP": {
+    "zh": "登录IP",
+    "en": "IP"
+  },
+  "isLoggedLabel": {
+    "zh": "是否登录",
+    "en": "Is Logged"
+  },
+  "$_/views/RoleCardList.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/RoleCardList.vue",
+  "$_/views/RoleDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/RoleDetails.vue",
+  "roleName": {
+    "zh": "角色名称",
+    "en": "Role Name"
+  },
+  "description": {
+    "zh": "角色备注",
+    "en": "Description"
+  },
+  "$_/views/Roles.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Roles.vue",
+  "$_/views/UserDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/UserDetails.vue",
+  "email": {
+    "zh": "邮箱",
+    "en": "Email"
+  },
+  "password": {
+    "zh": "密码",
+    "en": "Password"
+  },
+  "enable": {
+    "zh": "是否允许访问",
+    "en": "Enable"
+  },
+  "phone": {
+    "zh": "电话号码",
+    "en": "Phone"
+  },
+  "expiresAt": {
+    "zh": "到期时间",
+    "en": "Expires At"
+  },
+  "$_/views/Users.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Users.vue"
+}

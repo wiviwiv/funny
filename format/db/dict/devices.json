@@ -1,0 +1,123 @@
+{
+  "$_/components/DeviceDetailTabs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceDetailTabs.vue",
+  "$_/components/DeviceInstruction.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceInstruction.vue",
+  "status": {
+    "zh": "指令状态",
+    "en": "Status"
+  },
+  "createAt": {
+    "zh": "下发时间",
+    "en": "Create At"
+  },
+  "$_/components/DeviceLogsTabsHead.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceLogsTabsHead.vue",
+  "$_/components/DeviceTabsHead.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceTabsHead.vue",
+  "$_/views/DeviceConnectLogs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceConnectLogs.vue",
+  "deviceName": {
+    "zh": null,
+    "en": "Device Name"
+  },
+  "deviceID": {
+    "zh": null,
+    "en": "DeviceID"
+  },
+  "IP": {
+    "zh": null,
+    "en": "IP"
+  },
+  "deviceStatusLabel": {
+    "zh": null,
+    "en": "Device Status Label"
+  },
+  "$_/views/DeviceDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetails.vue",
+  "productID": {
+    "zh": "所属产品",
+    "en": "ProductID"
+  },
+  "deviceType": {
+    "zh": "设备类型",
+    "en": "Device Type"
+  },
+  "description": {
+    "zh": "描述",
+    "en": "Description"
+  },
+  "serialNumber": {
+    "zh": "序列号",
+    "en": "Serial Number"
+  },
+  "softVersion": {
+    "zh": "软件版本",
+    "en": "Soft Version"
+  },
+  "hardwareVersion": {
+    "zh": "硬件版本",
+    "en": "Hardware Version"
+  },
+  "manufacturer": {
+    "zh": "制造商",
+    "en": "Manufacturer"
+  },
+  "location": {
+    "zh": "安装位置",
+    "en": "Location"
+  },
+  "createUser": {
+    "zh": "创建人",
+    "en": "Create User"
+  },
+  "$_/views/DeviceDetailsCode.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsCode.vue",
+  "topicName": {
+    "zh": null,
+    "en": "Topic Name"
+  },
+  "$_/views/DeviceDetailsControl.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsControl.vue",
+  "$_/views/DeviceDetailsEvents.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsEvents.vue",
+  "topic": {
+    "zh": null,
+    "en": "Topic"
+  },
+  "payload": {
+    "zh": null,
+    "en": "Payload"
+  },
+  "$_/views/DeviceErrorLogs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceErrorLogs.vue",
+  "message": {
+    "zh": null,
+    "en": "Message"
+  },
+  "$_/views/DeviceEvents.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceEvents.vue",
+  "$_/views/Devices.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Devices.vue",
+  "productName": {
+    "zh": null,
+    "en": "Product Name"
+  },
+  "deviceTypeLabel": {
+    "zh": null,
+    "en": "Device Type Label"
+  },
+  "$_/views/DevicesCreate.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DevicesCreate.vue",
+  "token": {
+    "zh": "设备密钥",
+    "en": "Token"
+  },
+  "authType": {
+    "zh": "认证方式",
+    "en": "Auth Type"
+  },
+  "$_/views/GroupDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/GroupDetails.vue",
+  "groupID": {
+    "zh": "分组标识",
+    "en": "GroupID"
+  },
+  "groupName": {
+    "zh": "分组名称",
+    "en": "Group Name"
+  },
+  "$_/views/Groups.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Groups.vue",
+  "deviceCount": {
+    "zh": null,
+    "en": "Device Count"
+  },
+  "$_/views/ProductDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/ProductDetails.vue",
+  "$_/views/Products.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Products.vue"
+}

@@ -1,0 +1,72 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/LoginLogs.vue",
+  "fileName": "LoginLogs.vue",
+  "namespace": "loginLogs",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "登录日志",
+      "template": [
+        "登录日志",
+        "{{ $t('loginLogs.__4') }}"
+      ],
+      "script": false
+    },
+    "9": {
+      "key": "__9",
+      "value": "用户名",
+      "template": [
+        "用户名",
+        "{{ $t('loginLogs.__9') }}"
+      ],
+      "script": false
+    },
+    "13": {
+      "key": "loginTime",
+      "value": "发生时间",
+      "template": [
+        "label=\"发生时间\"",
+        ":label=\"$t('loginLogs.loginTime')\""
+      ],
+      "script": false
+    },
+    "17": {
+      "key": "__17",
+      "value": "登录",
+      "template": [
+        "登录",
+        "{{ $t('loginLogs.__17') }}"
+      ],
+      "script": false
+    },
+    "21": {
+      "key": "__21",
+      "value": "是否登录成功",
+      "template": [
+        "是否登录成功",
+        "{{ $t('loginLogs.__21') }}"
+      ],
+      "script": false
+    }
+  },
+  "key": {
+    "__4": "登录日志",
+    "__9": "用户名",
+    "__17": "登录",
+    "__21": "是否登录成功"
+  },
+  "zhCode": {
+    "__4": "登录日志",
+    "__9": "用户名",
+    "loginTime": "发生时间",
+    "__17": "登录",
+    "__21": "是否登录成功"
+  },
+  "enCode": {
+    "__4": "登录日志",
+    "__9": "用户名",
+    "loginTime": "Login Time",
+    "__17": "登录",
+    "__21": "是否登录成功"
+  }
+}

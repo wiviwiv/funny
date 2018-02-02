@@ -1,0 +1,24 @@
+{
+  "name": "koa-skill",
+  "version": "1.0.0",
+  "description": "koa2 skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/nodemon index.js"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "bigpar@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "nodemon": "^1.14.11"
+  }
+}
