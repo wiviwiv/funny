@@ -1,0 +1,220 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/ApplicationDetails.vue",
+  "fileName": "ApplicationDetails.vue",
+  "namespace": "applicationDetails",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "应用",
+      "template": [
+        "应用",
+        "{{ $t('applicationDetails.__4') }}"
+      ],
+      "script": false
+    },
+    "18": {
+      "key": "__18",
+      "value": "应用",
+      "template": [
+        "应用",
+        "{{ $t('applicationDetails.__18') }}"
+      ],
+      "script": false
+    },
+    "23": {
+      "key": "__23",
+      "value": "应用密钥",
+      "template": [
+        "应用密钥",
+        "{{ $t('applicationDetails.__23') }}"
+      ],
+      "script": false
+    },
+    "28": {
+      "key": "__28",
+      "value": "应用名称",
+      "template": [
+        "应用名称",
+        "{{ $t('applicationDetails.__28') }}"
+      ],
+      "script": false
+    },
+    "31": {
+      "key": "__31",
+      "value": "请输入应用名称",
+      "template": [
+        "请输入应用名称",
+        "{{ $t('applicationDetails.__31') }}"
+      ],
+      "script": false
+    },
+    "37": {
+      "key": "__37",
+      "value": "是否可用",
+      "template": [
+        "是否可用",
+        "{{ $t('applicationDetails.__37') }}"
+      ],
+      "script": false
+    },
+    "42": {
+      "key": "__42",
+      "value": "请选择",
+      "template": [
+        "请选择",
+        "{{ $t('applicationDetails.__42') }}"
+      ],
+      "script": false
+    },
+    "48": {
+      "key": "__48",
+      "value": "到期日期",
+      "template": [
+        "到期日期",
+        "{{ $t('applicationDetails.__48') }}"
+      ],
+      "script": false
+    },
+    "52": {
+      "key": "__52",
+      "value": "请选择",
+      "template": [
+        "请选择",
+        "{{ $t('applicationDetails.__52') }}"
+      ],
+      "script": false
+    },
+    "60": {
+      "key": "createUser",
+      "value": "创建人",
+      "template": [
+        "label=\"创建人\"",
+        ":label=\"$t('applicationDetails.createUser')\""
+      ],
+      "script": false
+    },
+    "68": {
+      "key": "__68",
+      "value": "描述",
+      "template": [
+        "描述",
+        "{{ $t('applicationDetails.__68') }}"
+      ],
+      "script": false
+    },
+    "71": {
+      "key": "__71",
+      "value": "请添加描述",
+      "template": [
+        "请添加描述",
+        "{{ $t('applicationDetails.__71') }}"
+      ],
+      "script": false
+    },
+    "81": {
+      "key": "__81",
+      "value": "确定",
+      "template": [
+        "确定",
+        "{{ $t('applicationDetails.__81') }}"
+      ],
+      "script": false
+    },
+    "119": {
+      "key": "__119",
+      "value": "请输入应用",
+      "template": [
+        "'请输入应用'",
+        "this.$t('applicationDetails.__119')",
+        "__119"
+      ],
+      "script": true
+    },
+    "120": {
+      "key": "__120",
+      "value": "请输入应用名称",
+      "template": [
+        "'请输入应用名称'",
+        "this.$t('applicationDetails.__120')",
+        "__120"
+      ],
+      "script": true
+    },
+    "121": {
+      "key": "__121",
+      "value": "请选择",
+      "template": [
+        "'请选择'",
+        "this.$t('applicationDetails.__121')",
+        "__121"
+      ],
+      "script": true
+    },
+    "122": {
+      "key": "__122",
+      "value": "请选择",
+      "template": [
+        "'请选择'",
+        "this.$t('applicationDetails.__122')",
+        "__122"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__4": "Application",
+    "__18": "appID",
+    "__23": "appToken",
+    "__28": "appName",
+    "__31": "appNameRequired",
+    "__37": "enable",
+    "__42": "select",
+    "__48": "expiredAt",
+    "__52": "select",
+    "__68": "description",
+    "__71": "description",
+    "__81": "done",
+    "__119": "appIDRequired",
+    "__120": "appNameRequired",
+    "__121": "select",
+    "__122": "select"
+  },
+  "zhCode": {
+    "__4": "应用",
+    "__18": "应用ID",
+    "__23": "应用密钥",
+    "__28": "应用名称",
+    "__31": "请输入应用名称",
+    "__37": "是否可用",
+    "__42": "请选择",
+    "__48": "到期日期",
+    "__52": "请选择",
+    "createUser": "创建人",
+    "__68": "描述",
+    "__71": "请添加描述",
+    "__81": "确定",
+    "__119": "请输入应用",
+    "__120": "请输入应用名称",
+    "__121": "请选择",
+    "__122": "请选择"
+  },
+  "enCode": {
+    "__4": "Application",
+    "__18": "AppID",
+    "__23": "AppToken",
+    "__28": "AppName",
+    "__31": "AppName required",
+    "__37": "Enable",
+    "__42": "Option required",
+    "__48": "Expired At",
+    "__52": "Select",
+    "createUser": "Create User",
+    "__68": "Description",
+    "__71": "Description",
+    "__81": "Apply",
+    "__119": "AppID required",
+    "__120": "AppName required",
+    "__121": "Option Required",
+    "__122": "Option Required"
+  }
+}

@@ -33,7 +33,7 @@ app.use((ctx, next) => {
 // file upload
 app.use((ctx, next) => {
   if (ctx.path === '/upload') {
-    ctx.body = {
+    return ctx.body = {
       file: ctx.request.body.files.file,
     }
   }
@@ -54,7 +54,7 @@ app.use((ctx, next) => {
     if (data.redirect) {
       return ctx.redirect(`${data.redirect}?${data.response}=${data.token}`)
     }
-    ctx.body = data
+    return ctx.body = data
   }
   next()
 })

@@ -1,0 +1,109 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Aplications.vue",
+  "fileName": "Aplications.vue",
+  "namespace": "aplications",
+  "rows": {
+    "4": {
+      "key": "__4",
+      "value": "应用",
+      "template": [
+        "应用",
+        "{{ $t('aplications.__4') }}"
+      ],
+      "script": false
+    },
+    "7": {
+      "key": "__7",
+      "value": "应用名称",
+      "template": [
+        "应用名称",
+        "{{ $t('aplications.__7') }}"
+      ],
+      "script": false
+    },
+    "15": {
+      "key": "__15",
+      "value": "应用",
+      "template": [
+        "应用",
+        "{{ $t('aplications.__15') }}"
+      ],
+      "script": false
+    },
+    "16": {
+      "key": "createUser",
+      "value": "创建人",
+      "template": [
+        "label=\"创建人\"",
+        ":label=\"$t('aplications.createUser')\""
+      ],
+      "script": false
+    },
+    "24": {
+      "key": "__24",
+      "value": "到期日期",
+      "template": [
+        "到期日期",
+        "{{ $t('aplications.__24') }}"
+      ],
+      "script": false
+    },
+    "25": {
+      "key": "__25",
+      "value": "是否可用",
+      "template": [
+        "是否可用",
+        "{{ $t('aplications.__25') }}"
+      ],
+      "script": false
+    },
+    "40": {
+      "key": "__40",
+      "value": "创建时间",
+      "template": [
+        "创建时间",
+        "{{ $t('aplications.__40') }}"
+      ],
+      "script": false
+    },
+    "78": {
+      "key": "__78",
+      "value": "修改成功",
+      "template": [
+        "'修改成功'",
+        "this.$t('aplications.__78')",
+        "__78"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__4": "application",
+    "__7": "appName",
+    "__15": "appID",
+    "__24": "expiredAt",
+    "__25": "enable",
+    "__40": "createAt",
+    "__78": "editSuccess"
+  },
+  "zhCode": {
+    "__4": "应用",
+    "__7": "应用名称",
+    "__15": "应用ID",
+    "createUser": "创建人",
+    "__24": "到期日期",
+    "__25": "是否可用",
+    "__40": "创建时间",
+    "__78": "修改成功"
+  },
+  "enCode": {
+    "__4": "Application",
+    "__7": "AppName",
+    "__15": "应用ID",
+    "createUser": "Create User",
+    "__24": "ExpiredAt",
+    "__25": "Enable",
+    "__40": "CreateAt",
+    "__78": "Edit Success"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "$_App.vue": "/Users/emqtt/workspace/actorcloud/src/App.vue",
+  "$_apps/accounts/components/AccountTabsHead.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/components/AccountTabsHead.vue",
+  "$_apps/accounts/views/Aplications.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Aplications.vue",
+  "appName": {
+    "zh": "应用名称",
+    "en": "App Name"
+  },
+  "appID": {
+    "zh": "应用",
+    "en": "AppID"
+  },
+  "expiredAt": {
+    "zh": "到期日期",
+    "en": "Expired At"
+  },
+  "createAt": {
+    "zh": "创建时间",
+    "en": "Create At"
+  },
+  "$_apps/accounts/views/ApplicationDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/ApplicationDetails.vue",
+  "appStatus": {
+    "zh": "是否可用",
+    "en": "App Status"
+  },
+  "username": {
+    "zh": "创建人",
+    "en": "Username"
+  },
+  "description": {
+    "zh": "描述",
+    "en": "Description"
+  },
+  "$_apps/accounts/views/Invitations.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Invitations.vue",
+  "inviteEmail": {
+    "zh": null,
+    "en": "Invite Email"
+  },
+  "roleID": {
+    "zh": null,
+    "en": "RoleID"
+  },
+  "$_apps/accounts/views/LoginLogs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/LoginLogs.vue",
+  "loginTime": {
+    "zh": null,
+    "en": "Login Time"
+  },
+  "IP": {
+    "zh": null,
+    "en": "IP"
+  },
+  "isLoggedLabel": {
+    "zh": null,
+    "en": "Is Logged Label"
+  },
+  "$_apps/accounts/views/RoleCardList.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/RoleCardList.vue",
+  "$_apps/accounts/views/RoleDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/RoleDetails.vue",
+  "roleName": {
+    "zh": null,
+    "en": "Role Name"
+  },
+  "$_apps/accounts/views/Roles.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Roles.vue",
+  "$_apps/accounts/views/UserDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/UserDetails.vue",
+  "email": {
+    "zh": null,
+    "en": "Email"
+  },
+  "password": {
+    "zh": null,
+    "en": "Password"
+  },
+  "enable": {
+    "zh": null,
+    "en": "Enable"
+  },
+  "phone": {
+    "zh": null,
+    "en": "Phone"
+  },
+  "expiresAt": {
+    "zh": null,
+    "en": "Expires At"
+  },
+  "$_apps/accounts/views/Users.vue": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/Users.vue",
+  "$_apps/base/views/403.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/403.vue",
+  "$_apps/base/views/404.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/404.vue",
+  "$_apps/base/views/Dashboard.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Dashboard.vue",
+  "$_apps/base/views/Home.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Home.vue",
+  "$_apps/base/views/Login.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Login.vue",
+  "$_apps/base/views/Signup.vue": "/Users/emqtt/workspace/actorcloud/src/apps/base/views/Signup.vue",
+  "phonenumber": {
+    "zh": "电话",
+    "en": "Phonenumber"
+  },
+  "company": {
+    "zh": "公司名称",
+    "en": "Company"
+  },
+  "companySize": {
+    "zh": "公司规模",
+    "en": "Company Size"
+  },
+  "contactPerson": {
+    "zh": "联系人",
+    "en": "Contact Person"
+  },
+  "contactPhone": {
+    "zh": "联系电话",
+    "en": "Contact Phone"
+  },
+  "companyAddress": {
+    "zh": "公司地址",
+    "en": "Company Address"
+  },
+  "$_apps/devices/components/DeviceDetailTabs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceDetailTabs.vue",
+  "$_apps/devices/components/DeviceInstruction.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceInstruction.vue",
+  "publishStatusLabel": {
+    "zh": "指令状态",
+    "en": "Publish Status Label"
+  },
+  "payload": {
+    "zh": "指令内容",
+    "en": "Payload"
+  },
+  "$_apps/devices/components/DeviceLogsTabsHead.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceLogsTabsHead.vue",
+  "$_apps/devices/components/DeviceTabsHead.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/components/DeviceTabsHead.vue",
+  "$_apps/devices/views/DeviceConnectLogs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceConnectLogs.vue",
+  "deviceName": {
+    "zh": null,
+    "en": "Device Name"
+  },
+  "deviceID": {
+    "zh": null,
+    "en": "DeviceID"
+  },
+  "deviceStatusLabel": {
+    "zh": null,
+    "en": "Device Status Label"
+  },
+  "$_apps/devices/views/DeviceControlLogs.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceControlLogs.vue",
+  "$_apps/devices/views/DeviceDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetails.vue",
+  "productID": {
+    "zh": "所属产品",
+    "en": "ProductID"
+  },
+  "deviceType": {
+    "zh": "设备类型",
+    "en": "Device Type"
+  },
+  "serialNumber": {
+    "zh": "序列号",
+    "en": "Serial Number"
+  },
+  "softVersion": {
+    "zh": "软件版本",
+    "en": "Soft Version"
+  },
+  "hardwareVersion": {
+    "zh": "硬件版本",
+    "en": "Hardware Version"
+  },
+  "manufacturer": {
+    "zh": "制造商",
+    "en": "Manufacturer"
+  },
+  "location": {
+    "zh": "安装位置",
+    "en": "Location"
+  },
+  "createUser": {
+    "zh": "创建人",
+    "en": "Create User"
+  },
+  "$_apps/devices/views/DeviceDetailsCode.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsCode.vue",
+  "topicName": {
+    "zh": null,
+    "en": "Topic Name"
+  },
+  "$_apps/devices/views/DeviceDetailsControl.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsControl.vue",
+  "$_apps/devices/views/DeviceDetailsEvents.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceDetailsEvents.vue",
+  "topic": {
+    "zh": null,
+    "en": "Topic"
+  },
+  "$_apps/devices/views/DeviceEvents.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DeviceEvents.vue",
+  "$_apps/devices/views/Devices.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Devices.vue",
+  "productName": {
+    "zh": null,
+    "en": "Product Name"
+  },
+  "deviceTypeLabel": {
+    "zh": null,
+    "en": "Device Type Label"
+  },
+  "statusLabel": {
+    "zh": null,
+    "en": "Status Label"
+  },
+  "$_apps/devices/views/DevicesCreate.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/DevicesCreate.vue",
+  "token": {
+    "zh": "设备密钥",
+    "en": "Token"
+  },
+  "authType": {
+    "zh": "认证方式",
+    "en": "Auth Type"
+  },
+  "$_apps/devices/views/GroupDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/GroupDetails.vue",
+  "groupID": {
+    "zh": "分组标识",
+    "en": "GroupID"
+  },
+  "groupName": {
+    "zh": "分组名称",
+    "en": "Group Name"
+  },
+  "$_apps/devices/views/Groups.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Groups.vue",
+  "deviceCount": {
+    "zh": null,
+    "en": "Device Count"
+  },
+  "$_apps/devices/views/ProductDetails.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/ProductDetails.vue",
+  "$_apps/devices/views/Products.vue": "/Users/emqtt/workspace/actorcloud/src/apps/devices/views/Products.vue",
+  "$_components/Charts/Line.vue": "/Users/emqtt/workspace/actorcloud/src/components/Charts/Line.vue",
+  "$_components/Charts/PieDoughnut.vue": "/Users/emqtt/workspace/actorcloud/src/components/Charts/PieDoughnut.vue",
+  "$_components/EmptyPage.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmptyPage.vue",
+  "$_components/EmqButton.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqButton.vue",
+  "$_components/EmqCrud.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqCrud.vue",
+  "$_components/EmqDetailsPageHead.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqDetailsPageHead.vue",
+  "$_components/EmqDialog.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqDialog.vue",
+  "$_components/EmqExportExcel.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqExportExcel.vue",
+  "$_components/EmqImportExcel.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqImportExcel.vue",
+  "$_components/EmqSearchForm.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqSearchForm.vue",
+  "$_components/EmqSelect.vue": "/Users/emqtt/workspace/actorcloud/src/components/EmqSelect.vue",
+  "$_components/JsonEditor.vue": "/Users/emqtt/workspace/actorcloud/src/components/JsonEditor.vue",
+  "$_components/Leftbar.vue": "/Users/emqtt/workspace/actorcloud/src/components/Leftbar.vue",
+  "$_components/TabsCardHead.vue": "/Users/emqtt/workspace/actorcloud/src/components/TabsCardHead.vue",
+  "$_components/Topbar.vue": "/Users/emqtt/workspace/actorcloud/src/components/Topbar.vue",
+  "oldPassword": {
+    "zh": null,
+    "en": "Old Password"
+  },
+  "confirmPassword": {
+    "zh": null,
+    "en": "Confirm Password"
+  },
+  "contactEmail": {
+    "zh": "联系邮箱",
+    "en": "Contact Email"
+  }
+}

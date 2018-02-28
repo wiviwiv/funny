@@ -11,84 +11,13 @@
         ":label=\"$t('roleDetails.roleID')\""
       ],
       "script": false
-    },
-    "13": {
-      "key": "roleName",
-      "value": "角色名称",
-      "template": [
-        "label=\"角色名称\"",
-        ":label=\"$t('roleDetails.roleName')\""
-      ],
-      "script": false
-    },
-    "16": {
-      "key": "__16",
-      "value": "请输入角色名称",
-      "template": [
-        "请输入角色名称",
-        "{{ $t('roleDetails.__16') }}"
-      ],
-      "script": false
-    },
-    "21": {
-      "key": "description",
-      "value": "角色备注",
-      "template": [
-        "label=\"角色备注\"",
-        ":label=\"$t('roleDetails.description')\""
-      ],
-      "script": false
-    },
-    "24": {
-      "key": "__24",
-      "value": "请输入角色备注",
-      "template": [
-        "请输入角色备注",
-        "{{ $t('roleDetails.__24') }}"
-      ],
-      "script": false
-    },
-    "31": {
-      "key": "__31",
-      "value": "权限",
-      "template": [
-        "权限",
-        "{{ $t('roleDetails.__31') }}"
-      ],
-      "script": false
-    },
-    "49": {
-      "key": "__49",
-      "value": "保存",
-      "template": [
-        "保存",
-        "{{ $t('roleDetails.__49') }}"
-      ],
-      "script": false
     }
   },
-  "key": {
-    "__16": "roleNameRequired",
-    "__24": "roleDescriptionRequired",
-    "__31": "permission",
-    "__49": "save"
-  },
+  "key": {},
   "zhCode": {
-    "roleID": "角色",
-    "roleName": "角色名称",
-    "__16": "请输入角色名称",
-    "description": "角色备注",
-    "__24": "请输入角色备注",
-    "__31": "权限",
-    "__49": "保存"
+    "roleID": "角色"
   },
   "enCode": {
-    "roleID": "Role Name",
-    "roleName": "Role Name",
-    "__16": "Role Name Required",
-    "description": "Description",
-    "__24": "Role Description Required",
-    "__31": "Permission",
-    "__49": "Save"
+    "roleID": "RoleID"
   }
 }

@@ -253,6 +253,8 @@ function migrateAllVue(entry, dbPath) {
   })
 }
 
+// loadDict('/Users/emqtt/workspace/actorcloud/src/')
+loadRows('/Users/emqtt/workspace/actorcloud/src/apps/accounts/views/')
 // migrateAllVue('/Users/emqtt/workspace/actorcloud/src/apps/base/views/', './db/migrate/base')
 
 // writeCode(require('./db/migrate/accounts/userDetails'))

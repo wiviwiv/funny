@@ -1,0 +1,39 @@
+{
+  "file": "/Users/emqtt/workspace/actorcloud/src/apps/accounts/components/AccountTabsHead.vue",
+  "fileName": "AccountTabsHead.vue",
+  "namespace": "accountTabsHead",
+  "rows": {
+    "24": {
+      "key": "__24",
+      "value": "用户",
+      "template": [
+        "'用户'",
+        "this.$t('accountTabsHead.__24')",
+        "__24"
+      ],
+      "script": true
+    },
+    "25": {
+      "key": "__25",
+      "value": "邀请记录",
+      "template": [
+        "'邀请记录'",
+        "this.$t('accountTabsHead.__25')",
+        "__25"
+      ],
+      "script": true
+    }
+  },
+  "key": {
+    "__24": "用户",
+    "__25": "邀请记录"
+  },
+  "zhCode": {
+    "__24": "用户",
+    "__25": "邀请记录"
+  },
+  "enCode": {
+    "__24": "用户",
+    "__25": "邀请记录"
+  }
+}
